@@ -6,15 +6,15 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
-- 🇧🇷 From Brazil, currently working with cloud, DevOps and real-time systems  
-- ☁️ Focused on **AWS**, especially **Serverless** and **Containers**  
-- 🎯 Goal: become a strong reference in **AWS architectures** (Lambda, ECS, EKS, event-driven, etc.)  
+- From Brazil, currently working with cloud, DevOps and real-time systems  
+- Focused on **AWS**, especially **Serverless** and **Containers**  
+- Goal: become a strong reference in **AWS architectures** (Lambda, ECS, EKS, event-driven, etc.)  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Cloud & Infra**
 - AWS (Lambda, API Gateway, DynamoDB, S3, Step Functions, ECS, CloudFormation/SAM, IAM)
@@ -32,7 +32,7 @@
 
 ---
 
-## ⚡ What I like to build
+## What I like to build
 
 - Event-driven architectures (S3 + SQS/SNS + Lambda + Step Functions)  
 - Real-time video pipelines (Raspberry Pi → Kinesis Video → Rekognition → APIs)  
