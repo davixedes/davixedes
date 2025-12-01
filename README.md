@@ -36,7 +36,7 @@
 - Event-driven architectures (S3 + SQS/SNS + Lambda + Step Functions)  
 - Real-time video pipelines (Raspberry Pi → Kinesis Video → Rekognition → APIs)  
 - Cost-optimized and observable cloud environments  
-- Small tools that automate boring stuff 😄  
+- Small tools that automate boring stuff
 
 ## Featured areas
 
