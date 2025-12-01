@@ -1,5 +1,4 @@
-<h1 align="center">Hello, World!  👋</h1>
-<h2 align="center">Davi Praxedes  👋</h1>
+<h1 align="center">Davi Praxedes</h1>
 <p align="center">
   Cloud Engineer • AWS • Serverless • Containers • Real-Time Video & AI
 </p>
