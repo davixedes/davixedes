@@ -11,8 +11,6 @@
 - 🇧🇷 From Brazil, currently working with cloud, DevOps and real-time systems  
 - ☁️ Focused on **AWS**, especially **Serverless** and **Containers**  
 - 🎯 Goal: become a strong reference in **AWS architectures** (Lambda, ECS, EKS, event-driven, etc.)  
-- 🧠 I like **ultralearning**, deep work and building things that actually run in production  
-- 🎹 Fun fact: I play piano, viola and violin
 
 ---
 
@@ -68,20 +66,12 @@
 
 ---
 
-## 🚀 Featured areas
+## Featured areas
 
 - 🟣 **Serverless on AWS** – Lambda, API Gateway, DynamoDB, S3, Step Functions  
 - 🔵 **Containers** – ECS, Docker, images otimizadas para produção  
 - 🟢 **Real-Time AI & Computer Vision** – YOLO, Rekognition, video analytics  
 - 🟠 **Observability & Cost** – Datadog, dashboards, alertas, otimização de recursos  
 
----
-
-## 📫 How to reach me
-
-- 💼 LinkedIn: [linkedin.com/in/SEU_LINKEDIN](https://linkedin.com/in/SEU_LINKEDIN)
-- ✉️ Email: SEU_EMAIL
-
----
 
 > Always learning, always shipping. 🚀
